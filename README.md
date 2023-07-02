@@ -3,7 +3,7 @@
 <h1 align="center">I'm Jeff 🧔</h1>
 <h3 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mrjefff&label=Profile%20views&color=0e75b6&style=flat" alt="mrjefff" />
-  <img src="https://img.shields.io/badge/Discord-MrJeff%230001-%235865F2?style=flat&logo=discord" alt="MrJeff#0001" />
+  <img src="https://img.shields.io/badge/Discord-@ajef-%235865F2?style=flat&logo=discord" alt="MrJeff#0001" />
 󠁿󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 <p>🎮 Gamer <s>turned</s> & Dev. 👨‍💻 </p>
 
